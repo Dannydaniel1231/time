@@ -1,0 +1,21 @@
+.hrs span{
+    border: solid black;
+    height: 80px;
+    width: 100px;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+
+}
+
+ .date span {
+    border: black;
+    width: 300px;
+    height: 100px;
+    background-color: aqua;
+ }
+
+.main{
+    align-items:center ;
+    justify-content: center;
+}
